@@ -1,5 +1,3 @@
-import aspose.words 
-
 def of() : # Open files function
     g = open("a.txt", "w")
     b = open("b.txt" , "w")
